@@ -1,0 +1,21 @@
+nav {
+    font-size: 2rem;
+    background-color: navy;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+nav ul {
+    list-style: none;
+    text-align: center;
+}
+nav li {
+    display: inline-block;
+    margin-right: 1rem;
+}
+nav a {
+    color: white;
+    text-decoration: none;
+}
+nav a:hover {
+    color: lightgray;
+}
