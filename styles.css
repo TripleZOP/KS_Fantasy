@@ -28,6 +28,7 @@ h1 {
 main {
     padding-left: 2rem;
     color: white;
+    padding-right: 2rem;
 }
 main table {
     width: 100%;
@@ -39,4 +40,7 @@ th, td {
     padding: 1rem;
     text-align: left;
     border: 1px solid black;
+}
+tr {
+    background-color: #212121;
 }
